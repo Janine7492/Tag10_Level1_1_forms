@@ -63,3 +63,7 @@ input[type="submit"] {
     color: white;
     padding: 1rem 0;
 }
+
+.button:hover {
+    background-color: #191970;
+}
